@@ -1,0 +1,4 @@
+plugin-name=garbagecat
+plugin-namespace=KONGWU
+plugin-version=1.0-alpha1
+main-implementation=com.github.kongwu.xpocket.plugin.garbagecat.GarbageCatXPocketPlugin
